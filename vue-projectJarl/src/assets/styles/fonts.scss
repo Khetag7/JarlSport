@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Nunito';
+    src: url('@/assets/fonts/Nunito-Light/Nunito-Light.eot');
+    src: local('@/assets/fonts/Nunito-Light/Nunito Light'), local('@/assets/fonts/Nunito-Light/Nunito Light'),
+        url('@/assets/fonts/Nunito-Light/Nunito-Light.eot?#iefix') format('embedded-opentype'),
+        url('@/assets/fonts/Nunito-Light/Nunito-Light.woff2') format('woff2'),
+        url('@/assets/fonts/Nunito-Light/Nunito-Light.woff') format('woff'),
+        url('@/assets/fonts/Nunito-Light/Nunito-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('@/assets/fonts/Nunito-Regular/Nunito-Regular.eot');
+    src: local('@/assets/fonts/Nunito-Regular/Nunito Regular'), local('@/assets/fonts/Nunito-Regular/Nunito-Regular'),
+        url('@/assets/fonts/Nunito-Regular/Nunito-Regular.eot?#iefix') format('embedded-opentype'),
+        url('@/assets/fonts/Nunito-Regular/Nunito-Regular.woff2') format('woff2'),
+        url('@/assets/fonts/Nunito-Regular/Nunito-Regular.woff') format('woff'),
+        url('@/assets/fonts/Nunito-Regular/Nunito-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('@/assets/fonts/Nunito-Medium/Nunito-Medium.eot');
+    src: local('@/assets/fonts/Nunito-Medium/Nunito Medium'), local('@/assets/fonts/Nunito-Medium/Nunito-Medium'),
+        url('@/assets/fonts/Nunito-Medium/Nunito-Medium.eot?#iefix') format('embedded-opentype'),
+        url('@/assets/fonts/Nunito-Medium/Nunito-Medium.woff2') format('woff2'),
+        url('@/assets/fonts/Nunito-Medium/Nunito-Medium.woff') format('woff'),
+        url('@/assets/fonts/Nunito-Medium/Nunito-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('@/assets/fonts/Nunito-Bold/Nunito-Bold.eot');
+    src: local('@/assets/fonts/Nunito-Bold/Nunito Bold'), local('@/assets/fonts/Nunito-Bold/Nunito-Bold'),
+        url('@/assets/fonts/Nunito-Bold/Nunito-Bold.eot?#iefix') format('embedded-opentype'),
+        url('@/assets/fonts/Nunito-Bold/Nunito-Bold.woff2') format('woff2'),
+        url('@/assets/fonts/Nunito-Bold/Nunito-Bold.woff') format('woff'),
+        url('@/assets/fonts/Nunito-Bold/Nunito-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
